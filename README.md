@@ -1,4 +1,5 @@
 # AIR QUALITY SENSING USING MACHINE LEARNING
+This project is done as part of the Future Ready Talent Virtual Internship Program organised by Microsoft.
 
 PROBLEM STATEMENT:-
 
