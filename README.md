@@ -1,10 +1,6 @@
 # AIR QUALITY SENSING USING MACHINE LEARNING
 This project is done as part of the Future Ready Talent Virtual Internship Program organised by Microsoft.
-
-
-
-PROBLEM STATEMENT:-
-
+###PROBLEM STATEMENT:-
 Continued exposure to surroundings with poor air quality is a major public health concern in developed and developing
 countries. It's estimated that the adulterants responsible for poor air quality cause nearly 2.5 million unseasonable
 deaths per time world-wide. Significantly, around 1.5 million of these deaths are due to weakened inner air, and it's
